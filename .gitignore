@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/artifacts/
+/build/
+/typechain-types/
+/cache/
+/package-lock.json
+/scripts/
