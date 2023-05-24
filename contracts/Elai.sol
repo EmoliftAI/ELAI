@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.9;
 
-import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
-import "@openzeppelin/contracts/access/Ownable.sol";
+import "./lib/ERC20.sol";
+import "./lib/Ownable.sol";
 
 contract EmoLiftAI is ERC20, Ownable {
 
