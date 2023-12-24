@@ -1,11 +1,4 @@
 # EmoLiftAI
-  ______ _               _____ 
- |  ____| |        /\   |_   _|
- | |__  | |       /  \    | |  
- |  __| | |      / /\ \   | |  
- | |____| |____ / ____ \ _| |_ 
- |______|______/_/    \_\_____|
-
 
 EmoLiftAI is an innovative platform that combines artificial intelligence, real-time support, and token-based incentives to improve users' emotional well-being. It aims to revolutionize the mental health and emotional wellness space by providing personalized guidance and fostering personal growth.
 
